@@ -14,7 +14,7 @@
 ;    eclipse
 ;      browse to http://firstforge.wpi.edu/sf/go/doc1199?nav=1
 ;        download from the link "Java Getting Started Guide"
-;    netbeans?
+;    netbeans first.wpi.edu/Images/CMS/First/GettingStartedWithJava.pdf
 ;  ucpp
 ;    homepage https://github.com/nikitakit/ucpp
 ;    dependencies
