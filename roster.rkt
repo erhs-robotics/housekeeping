@@ -9,5 +9,6 @@
   ("MarianaR" "mariana" "student")
   ("MichaelStevens" "mike" "student")
   ("noobguy" "?" "student?")
+  ("ShoutenM" "jamir" "student")
   ("nyaculak" "nick" "student")
   ("ozzloy" "daniel" "mentor"))
