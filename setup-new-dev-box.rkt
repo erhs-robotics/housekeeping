@@ -1,4 +1,7 @@
 ;dependencies
+;  frc
+;   download frc libraries and software
+;   http://firstforge.wpi.edu/sf/frs/do/viewSummary/projects.wpilib/frs
 ;  git
 ;   browse to http://help.github.com/set-up-git-redirect
 ;     follow the instructions, they're pretty thorough
@@ -11,10 +14,10 @@
 ;      cd ~/opt
 ;      git clone https://github.com/robotpy/robotpy.git
 ;  java
-;    eclipse
-;      browse to http://firstforge.wpi.edu/sf/go/doc1199?nav=1
-;        download from the link "Java Getting Started Guide"
-;    netbeans first.wpi.edu/Images/CMS/First/GettingStartedWithJava.pdf
+;    download netbeans http://netbeans.org/downloads/start.html?platform=windows&lang=en&option=javase
+;    learn java first.wpi.edu/Images/CMS/First/GettingStartedWithJava.pdf
+;    browse to http://firstforge.wpi.edu/sf/go/doc1199?nav=1
+;        download from the link "Java Getting Started Guide"    
 ;  ucpp
 ;    homepage https://github.com/nikitakit/ucpp
 ;    dependencies
