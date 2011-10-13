@@ -1,4 +1,5 @@
 ; https://github.com/erhs-53-hackers
+; (<Github name>, <Nickname>, <student/mentor>)
 
 (team-members
   ("adamclaassen" "adam" "student")
