@@ -6,10 +6,7 @@
 ;   browse to http://help.github.com/set-up-git-redirect
 ;     follow the instructions, they're pretty thorough
 ;  robotpy
-;    browse to http://www.python.org/download/releases/3.2.2/
-;      scroll down to the 'Download' section
-;      download the appropriate installer
-;    in a terminal
+;    in a terminal, like msysgit aka git bash
 ;      mkdir -p ~/opt
 ;      cd ~/opt
 ;      git clone https://github.com/robotpy/robotpy.git
