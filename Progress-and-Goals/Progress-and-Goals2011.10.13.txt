@@ -1,0 +1,17 @@
+Thu, Oct 13, 2011
+progress:
+1. mike and rajath got the coder cycle working using java and netbeans
+2. adam got git set up on his old-but-still-usable laptop
+3. jamir got netbeans installed on his computer
+4. i (danny) got the coder cycle working with ucpp
+5. we're going to meet in the programming club on tuesdays.  i think alex was responsible for this.
+6. nick y., and liz searched high and low for windriver.  thanks guys
+7. mike added instructions for getting netbeans up and running
+8. mike got the driver station and firmware flashing stuff installed on his box
+goals
+1. get a git client installed on your computer by following the instructions here: http://help.github.com/set-up-git-redirect
+2. get the driver station and the firmware flashing stuff installed on your box.  http://firstforge.wpi.edu/sf/frs/do/viewSummary/projects.wpilib/frs  do this at home.  right now.  don't wait till you're at school and you have to use up all of my phone's bandwidth and kill everyone else's browsing.
+3. install netbeans on your own computer.  make sure to get the FRC additions.  again, do it right now.  https://github.com/erhs-53-hackers/housekeeping/blob/master/setup-new-dev-box.rkt  go to the "java" section, starting on line 13.
+4. nick post a request to chief delphi for someone to post their compiled robotpy interpreter.  the file is FRC_UserProgram.out
+5. get documentation worked out.  we have a pretty unique opportunity to document the process of setting up a development environment.  no one else is crazy enough to give 4 programming languages a go at once.  let's make some instructional videos for the team's youtube channel!  let's make a youtube channel for the team if there isn't one already!
+
