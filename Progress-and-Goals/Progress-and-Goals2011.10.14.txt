@@ -1,7 +1,0 @@
-0.  nick found the FRC_userProgram.out file
-0.0 he still doesn't know what to do with it
-1.  nick and michael edited the housekeeping project
-1.0 they added a folder to keep progress and goals documents
-1.1 they also formatted the tables with html coding so they look cooler
-2.  if you accomplished anything please inform me (nick) so i can
-    add it to this list
