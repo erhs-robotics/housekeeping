@@ -4,9 +4,12 @@ progress
 2.  michael found out how to make the motor move in reverse
 2.0 motor class works
 2.1 to go in reverse, use a negative (-) value
+3. captured some robot communications using wireshark for making a driver's
+  station
 
 goals
 0.  make a stop button
 1.  run python
 2.  get another robot(s)
 2.0 talk to the mechies
+3. get camera working
