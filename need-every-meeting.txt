@@ -1,3 +1,4 @@
 0. full battery
 1. driver's station
 2. kitzer
+3. router
