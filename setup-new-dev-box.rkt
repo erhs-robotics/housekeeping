@@ -19,7 +19,6 @@
 ;      debian-based distros, like ubuntu
 ;        in a terminal, like gnome-terminal
 ;          sudo apt-get install -y netbeans
-;    learn java first.wpi.edu/Images/CMS/First/GettingStartedWithJava.pdf
 ;    browse to http://firstforge.wpi.edu/sf/go/doc1199?nav=1
 ;        download from the link "Java Getting Started Guide"    
 ;  ucpp
