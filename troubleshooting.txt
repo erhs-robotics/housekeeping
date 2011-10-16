@@ -7,4 +7,5 @@
 3.0 make sure that your on 'erhs'
 3.1 ping 10.0.1.2
 3.2 (windows) start automatic connection troubleshooter
+4. You cannot flash the robot from the same machine running the driver station
 
