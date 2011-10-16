@@ -1,0 +1,12 @@
+progress
+0.  made a troubleshooting document
+1.  made list of crap needed for every meeting
+2.  michael found out how to make the motor move in reverse
+2.0 motor class works
+2.1 to go in reverse, use a negative (-) value
+
+goals
+0.  make a stop button
+1.  run python
+2.  get another robot(s)
+2.0 talk to the mechies
