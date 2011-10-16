@@ -1,0 +1,20 @@
+progress
+0.  nick and michael finalized some formating for the housekeeping repo
+0.1 they added some cool <html> stuff
+0.2 nick is working on adding some streamline CSS
+1.  nick added Asteroid-Colliders to the pyballs repo
+1.0 you guys should check it out -- it's pretty fun
+2.  michael changed the file fireball2.py arround to have some
+    sprites and use CLASS files
+3.  adam finally figured out why he couldn't use pygame
+4.  danny congratulated nick, michael, and adam on collaborating
+    information via email
+
+goals
+0.  everyone needs to send in their github name, real name,
+    and current project via email
+1.  get robotpy code up and running (maybe tomorrow)
+2.  get everyone working on or learning a language
+3.  get everyone a git
+4.  teach everyone how to use git
+5.  improve upon the java and possibly the c++ code
