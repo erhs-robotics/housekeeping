@@ -1,9 +1,10 @@
 progress
 0.  made a troubleshooting document
-1.  made list of crap needed for every meeting
-2.  michael found out how to make the motor move in reverse
-2.0 motor class works
+1.  made list of things needed for every meeting
+2.  michael found out how to make the motor move in reverse (Java)
+2.0 motor class works (Java)
 2.1 to go in reverse, use a negative (-) value
+2.2 made a messaging class to make cominication with driver station easier (Java)
 3. captured some robot communications using wireshark for making a driver's
   station
 
