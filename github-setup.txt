@@ -1,0 +1,8 @@
+Steps for setting up and using GitHub
+
+0.  go to www.github.com and sign up for an account
+1.  go to the github homepage and click on "Set Up Git"
+2.  follow the directions on the page for your OS
+2.1 download the gitbash
+2.2 set up your SSH key
+2.3 follow the instructions in gitbootcamp.rtf to clone, add, commit, etc.
