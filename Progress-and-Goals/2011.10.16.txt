@@ -13,4 +13,5 @@ goals
 1.  run python
 2.  get another robot(s)
 2.0 talk to the mechies
-3. get camera working
+3.  get camera working
+4   get all of the nicknames and current projects of people and fill in the roster
