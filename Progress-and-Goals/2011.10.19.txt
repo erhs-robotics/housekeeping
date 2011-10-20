@@ -1,0 +1,16 @@
+progress
+0.  people installed git hub and formated ssh keys
+1.  people learned how to use github
+2.  rajeth and michael interface with the joystick (Java)
+3.  michael improved driver station messaging class (Java)
+4.  nick and danny tested c++ environment
+5.  we got a good room!
+6.  nick and alex began process of fixing up the labor day bot
+
+goals
+0.  make a stop button
+1.  run python
+2.  get the labor day bot ready to run code
+3.  get camera working
+4   get all of the nicknames and current projects of people and fill in the roster (almost done)
+5.  come up with more goals
