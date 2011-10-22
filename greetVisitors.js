@@ -12,4 +12,4 @@ else
 	{
 	document.write("<b>Hello World!  </b>");
 	}
-document.write("<b>\nThe time is currently: " + d + "</b>")
+document.write("<b>\nThe time is currently " + d + "</b>")
