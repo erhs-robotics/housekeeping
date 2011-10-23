@@ -25,6 +25,6 @@ case 6:
   document.write("Saturday.  YAY!");
   break;
 default:
-  document.write("Can't determine day of the week");
+  document.write("Error:  Can't determine day of the week");
   break;
 }
