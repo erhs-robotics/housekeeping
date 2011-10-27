@@ -1,19 +1,21 @@
 progress
 0.  nick, rajath, and alex worked with the chassis team and got the parade robot
     to work
-1.  michael worked is (almost?) done with the Messager class for the java
-    program
-2.  we decided to use a new drive train (I forgot the proper name)
-3.  set up more ssh keys (Please do on your own time!!)
+1.  michael worked on the Messager class for the java program
+2.  we decided to use a new drive train, holonomic.
+3.  set up more ssh keys (Please do on your own time!! (and ask questions if
+    you get stuck))
 4.  installed another motor on the test bot
 4.1 used arcade drive to utilize both motors (Java)
 
 goals
-0.  get Python to work (we may give up on this and just do java)
+0.  get Python to work
 0.1 michael and nick are wondering if we can use jython (which would be awesome)
 0.2 anyone know any local teams that use python and may be able to help us?
-1.  learn how to work the new drive train system <fill in name here>
+1.  learn how to work the new holonomic drive
 2.  finish messager class for java, if not already complete
 3.  start writing more advanced code
 4.  maybe start on some autonomous?
-5.  Finish setting up git + github
+5.  Finish setting up git + github.  do this at home and ask questions when you
+    get stuck.  look like an idiot in front of everyone.  i promise you'll live
+    to tell about it.
