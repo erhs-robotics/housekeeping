@@ -7,6 +7,7 @@ progress
     you get stuck))
 4.  installed another motor on the test bot
 4.1 used arcade drive to utilize both motors (Java)
+5.  dale started the attendance
 
 goals
 0.  get Python to work
