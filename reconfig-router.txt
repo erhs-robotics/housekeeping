@@ -1,0 +1,7 @@
+If someone accidentally or purposefully resets the router, it must be
+reconfigured for use by the cRIO.
+
+To do this, you have to change the ip of the robot to 10.te.am.2.
+We will usually be doing either 10.0.1.2 or 10.0.53.2
+
+<Rajath, finish this up for me>
