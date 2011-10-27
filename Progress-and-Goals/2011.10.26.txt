@@ -1,0 +1,17 @@
+progress
+0.  nick, rajath, and alex worked with the chassis team and got the parade robot
+    to work
+1.  michael worked is (almost?) done with the Messager class for the java
+    program
+2.  we decided to use a new drive train (I forgot the proper name)
+3.  <fill this in>
+
+goals
+0.  get Python to work (we may give up on this and just do java)
+0.1 michael and nick are wondering if we can use jython (which would be awesome)
+0.2 anyone know any local teams that use python and may be able to help us?
+1.  learn how to work the new drive train system <fill in name here>
+2.  finish messager class for java, if not already complete
+3.  start writing more advanced code
+4.  maybe start on some autonomous?
+5.  <fill this in>
