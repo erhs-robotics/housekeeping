@@ -1,0 +1,21 @@
+progress
+0.  worked on the Labor day bot
+0.1 used arcade drive (Java + Labview)
+0.2 used a servo controler (Java + Labview)
+0.3 used a relay switch to control lights (Java)
+0.4 used pneumatic controler (Java)
+0.5 used all the above items in teleop and autonomous mode 
+1.  messaging class finished (Java)
+2.  found a possible holonomic drive function, but not tested
+
+goals
+0.  get Python to work
+0.1 michael and nick are wondering if we can use jython (which would be awesome)
+0.2 anyone know any local teams that use python and may be able to help us?
+1.  Finish setting up git + github.  do this at home and ask questions when you
+    get stuck.  look like an idiot in front of everyone.  i promise you'll live
+    to tell about it.
+2.   make code to get input from different kinds of sensors
+3.  setup an erhs-53 hackers youtube chanel and twitter to help document progress
+3.1 get an offical "documentor" to record progress
+4.  add more goals
