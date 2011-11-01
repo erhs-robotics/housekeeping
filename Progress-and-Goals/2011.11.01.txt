@@ -1,0 +1,7 @@
+progress:
+0) i phone frc driver station app (Bernard)
+1) founed our the router does not work on the holonomic frame
+goals 
+0) get the compiz frc driver app running on an iphone
+1) test holographic (nick) code
+
