@@ -1,5 +1,6 @@
 0. full battery
 1. driver's station
-2. kitzer
+2. cRIO flashing software
 3. router
 4. coding environment
+5. holonomic drive robot
