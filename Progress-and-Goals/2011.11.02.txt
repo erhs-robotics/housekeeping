@@ -1,0 +1,19 @@
+progress
+0.  worked on Holly
+0.1 rojeth + michael worked on holonomic drive (Java) - half done
+0.2 rojeth fixed motor issue
+0.3 nick + alex fixed and mounted router on robot
+1.  worked on Labor day Bot
+1.1 michael switched to front wheel drive (Java)
+1.2 adam fixed pneumatics (mechanical)
+1.3 rajeth beta tested (Labview)
+2.  michael worked on Jython
+3.  nick created erhs-53 hackers youtube acount
+4.  set up more ssh keys + git
+
+
+goals
+0.  test Jython
+1.  complete holonomic drive
+2.  start makeing instructional videos
+3.  more goals...
