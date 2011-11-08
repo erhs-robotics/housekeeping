@@ -1,0 +1,7 @@
+//progress for 8 Nov 2011
+Adam And Bernard got pics taken for yearbook
+
+//goals
+Autonomous Holonomic drive for 10 feet
+UCPP update
+Film FRC Netbeans
