@@ -1,11 +1,15 @@
 progress
-0. troubleshooted robot communications problems
-0.0 turns out whenever the router is plugged into the wall-socket on the robot
- it dies when the motors are turned.
-0.1 solution: plug the wireless router into the wall
-1. time-based score for asteroid colliders
-2. numbered the motors
-3. 
+0. worked on holonomic bot
+0.1  fixed connection issues
+0.2  discovered problem with the router's power supply
+0.2.0 when router is plugged into robot's onboard wall-socket and motor moves
+ the router dies
+0.2.1 solution: plug the wireless router into the wall
+0.3  fixed holonomic drive on left joystick
+1. worked on steroid-colliders
+0.1  added time-based point system
+
 goals
 0. power the wireless router from the robot without the onboard wall-socket
 1. ucpp project testing
+2. finish holonimic drive
