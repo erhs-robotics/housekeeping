@@ -1,0 +1,11 @@
+progress
+0. troubleshooted robot communications problems
+0.0 turns out whenever the router is plugged into the wall-socket on the robot
+ it dies when the motors are turned.
+0.1 solution: plug the wireless router into the wall
+1. time-based score for asteroid colliders
+2. numbered the motors
+3. 
+goals
+0. power the wireless router from the robot without the onboard wall-socket
+1. ucpp project testing
