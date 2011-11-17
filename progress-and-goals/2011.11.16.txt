@@ -1,0 +1,12 @@
+progress
+0.   Fixed holonomic robot. Now can drive, strafe, and turn (Java)
+1    Fixed power shortage on holonomic bot (Mecanical)
+2.   Created autonomous circle code for holonomic bot (Java)
+3.   Wrote tankdrive program for new robot
+4.   Found different sensors
+5.   Found dual joystick controler 
+
+goals
+0.   Attach sensors and read inputs
+1.   Possible "Follow the line" program
+2.   Add more goals
