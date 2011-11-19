@@ -1,0 +1,28 @@
+progress
+0. mike taught adam what stuff in the code meant
+1. motors have clicky issues when power is too high too fast
+1.0 above 0.5 on a [-1,1] scale
+2. verner found hypercam 2 screen recording software
+2.0 everyone should install this if they are running windows
+3. adam made a video for installing netbeans and the netbeans frc plugin
+4. verner made a video
+4.0 clone the holonomic frc project
+4.1 load holonomic project into netbeans
+4.2 configure frc netbeans plugin for our robot
+4.3 made a change to the code
+4.4 deployed and confirmed that the change worked
+5. danny made a roster and random person picker
+6. tested autonomous
+6.0 but the robot was elevated, so we couldn't tell if it worked
+7. mike and danny taught verner about programming basics
+7.0 recorded it, putting it up to youtube.
+
+goals
+0. bring a hardware guy to these meetings to troubleshoot motor/wiring problems
+1. put sensors on the robot
+1.0 use sensors during autonomous
+1.1 write a line follower
+1.2 put a gyro on the robot to tell which direction it's facing
+1.3 camera on the bot
+2. more consistent robot.
+2.1 "it's hardware's fault" - our motto.  also the truth.
