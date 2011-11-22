@@ -1,0 +1,12 @@
+Progress
+1) Rajath learned how to use github
+2) holonomic bot got its wheel fixed
+3) Adam Rajath and Bernard worked on proximity sensor
+4) Matt wants a gyro
+5) Bernard was slacking
+
+Goals
+1) matt wants inertial navigation system
+2) camera code need to be developed some how
+3) Electrical team
+4) We want pi
