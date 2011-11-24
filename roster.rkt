@@ -27,4 +27,3 @@
 (define (list-hackers num)
     (for ([i num]) (random-hacker) (printf "\n"))
     )
-
