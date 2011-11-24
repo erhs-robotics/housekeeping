@@ -24,7 +24,7 @@
       (random-hacker)
       (printf hacker))
   (set! last hacker))
-(define (list-random-hacker num)
+(define (list-hackers num)
     (for ([i num]) (random-hacker) (printf "\n"))
     )
-  
+
