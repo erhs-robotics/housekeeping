@@ -3,12 +3,9 @@
 
 (define hackers
   '("adamclaassen"
-    "area53liz"
     "blakstar000"
     "bsnsj425"
     "Chetlanl"
-    "erhs-53"
-    "LinuxArchitect"
     "Mariana"
     "MichaelStevens"
     "minnie1266"
