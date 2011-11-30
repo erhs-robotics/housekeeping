@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+//progress and goals for 16NOV2011
+progress
+cleaned up coke spill
+drove robot!!!
+Got trolled
+=======
 progress
 0.   Fixed holonomic robot. Now can drive, strafe, and turn (Java)
 1    Fixed power shortage on holonomic bot (Mecanical)
@@ -10,3 +17,5 @@ goals
 0.   Attach sensors and read inputs
 1.   Possible "Follow the line" program
 2.   Add more goals
+//this line is for the purpose of invalidating the commit i tried to do eirleyer(WOW...)
+>>>>>>> d19eae9dcb575e9282368073dde966c9147c6c1b
