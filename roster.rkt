@@ -16,14 +16,15 @@
     "YuRArea53"
     "Vozw"
     "wertmensah11"))
-(define last "blah")
-(define hacker "blah")
+
 (define (random-hacker)
-  (set! hacker (list-ref hackers (random (length hackers))))
-  (if (equal? last hacker)
-      (random-hacker)
-      (printf hacker))
-  (set! last hacker))
-(define (list-hackers num)
-    (for ([i num]) (random-hacker) (printf "\n"))
-    )
+  (list-ref hackers (random (length hackers))))
+
+(define (random-hackers count)
+  (take (shuffle hackers) count))
+
+; i would call this "list-random-hackers" but it doesn't return a list
+;  it prints out the contents of a randomized list of hackers with newlines 
+(define (show-random-hackers count)
+  (printf (apply string-append
+                 (map (curryr string-append "\n") (random-hackers count)))))
