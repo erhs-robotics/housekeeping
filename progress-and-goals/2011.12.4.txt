@@ -1,0 +1,9 @@
+Progress
+0. Worked on NXT's
+0.1  Flashed to LeJos (Java)
+0.1  Worked on color recognition function
+0.2  Worked on basic movement
+Goals
+0. Design NXT's physical aspects
+1. Create real size mini-urban challenge map (or portion of)
+2. Create road following logic
