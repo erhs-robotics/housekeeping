@@ -7,3 +7,4 @@ Goals
 0. Design NXT's physical aspects
 1. Create real size mini-urban challenge map (or portion of)
 2. Create road following logic
+3. Create line following program
