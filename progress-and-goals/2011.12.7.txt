@@ -1,0 +1,12 @@
+progress
+0. nick worked on assist teleop function
+1. nick broke the robot
+2. rajeth worked on a gyro internal navigation system
+3. michael set up a PID algorithm for line tracking (mini-urban)
+
+goals
+0. fix nick's broken robot (most likely broken ultrasonic)
+1. work on internal navigation system
+2. tune PID algorithm
+3. find more sensors (both FRC and Mini-Urban)
+
