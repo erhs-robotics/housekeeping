@@ -1,0 +1,13 @@
+Progress
+
+Danny learned some stuff about something
+Matt tested and got mad at the color sensor
+Rajath worked with the accelerometer
+George did fll stuff
+Mounting the colorsensor matters discovered by matt
+
+Goals
+Inerial Navigation
+Mini urban challenge
+
+
