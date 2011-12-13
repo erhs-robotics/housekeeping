@@ -1,0 +1,14 @@
+Progress
+
+we sat around waiting for divine intervention
+there were flying ethernet cables
+nick actually came
+michael and rajath worked on lejos
+nick worked on finding what happened to the sensor
+
+Goals
+Pictures
+get divine intervention
+inerial navigation
+lejos
+we never got our pi
