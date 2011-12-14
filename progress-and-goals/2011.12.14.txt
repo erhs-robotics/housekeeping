@@ -1,0 +1,13 @@
+Progress
+michael made the mini urban robot drive smoother
+rajath worked on getting the values of the color sensor
+nick fixed something with the ultrasonuc sensor
+alex, dale and adam worked on the accelerometer
+matt walked around and helped people
+the other guys did other stuff
+
+Goals
+Inertial Navigation
+Mini Urban Challange
+	stop at stop signs
+	
