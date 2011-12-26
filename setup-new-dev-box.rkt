@@ -11,6 +11,13 @@
 ;      cd ~/opt
 ;      git clone https://github.com/robotpy/robotpy.git
 ;  java
+;    download and install java
+;      http://java.com/
+;        click "Free Java Download"
+;    download and install jdk
+;      http://java.sun.com/javase/downloads
+;        click "Download" above "Java Platform (JDK) 7u2"
+;        click the installer appropriate for your system (probably windows x64)
 ;    download netbeans
 ;      ms windows
 ;        browse to http://netbeans.org/downloads/start.html?platform=windows&lang=en&option=javase
