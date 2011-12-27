@@ -26,6 +26,9 @@
 ;      debian-based distros, like ubuntu
 ;        in a terminal, like gnome-terminal
 ;          sudo apt-get install -y netbeans
+;    alternatively download and install netbeans & jdk together
+;      ms windows
+;        browse to http://www.oracle.com/technetwork/java/javase/downloads/index.html
 ;    browse to http://firstforge.wpi.edu/sf/go/doc1199?nav=1
 ;        download from the link "Java Getting Started Guide"    
 ;  ucpp
