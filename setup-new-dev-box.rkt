@@ -29,8 +29,11 @@
 ;    alternatively download and install netbeans & jdk together
 ;      ms windows
 ;        browse to http://www.oracle.com/technetwork/java/javase/downloads/index.html
-;    browse to http://firstforge.wpi.edu/sf/go/doc1199?nav=1
-;        download from the link "Java Getting Started Guide"    
+;    after installing netbeans install netbeans frc plugin
+;      browse to http://firstforge.wpi.edu/sf/go/doc1199?nav=1
+;        download from the link "Java Getting Started Guide"
+;          follow the instructions at the bottom of page 4
+;          the section labeled "Installing the plugins from the update site"
 ;  ucpp
 ;    homepage https://github.com/nikitakit/ucpp
 ;    dependencies
