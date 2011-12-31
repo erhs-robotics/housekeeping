@@ -61,3 +61,6 @@
 ;      click "FRC2011Utilities.zip"
 ;      erhs-53-hackers@googlegroups.com
 ;      eleanor53
+;      labview run-time engine
+;        browse to http://joule.ni.com/nidu/cds/view/p/id/861/lang/en
+;          download "LabVIEW85RuntimeEngineFull.exe"
