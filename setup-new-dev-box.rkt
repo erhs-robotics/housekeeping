@@ -62,5 +62,5 @@
 ;      erhs-53-hackers@googlegroups.com
 ;      eleanor53
 ;      labview run-time engine
-;        browse to http://joule.ni.com/nidu/cds/view/p/id/861/lang/en
-;          download "LabVIEW85RuntimeEngineFull.exe"
+;        browse to http://joule.ni.com/nidu/cds/view/p/id/1244/lang/en
+;          download "LVRTE861f4std.exe"
