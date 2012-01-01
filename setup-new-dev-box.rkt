@@ -69,3 +69,8 @@
 ;      click "FRC2011DriverStation2_27_11Update.zip"
 ;      erhs-53-hackers@googlegroups.com
 ;      eleanor53
+;  FIRST Robotics Software 2011 - utilities update - windows
+;    browse to http://joule.ni.com/nidu/cds/view/p/id/2262/lang/en
+;      click "FRC2011Utilities.zip"
+;      erhs-53-hackers@googlegroups.com
+;      eleanor53
