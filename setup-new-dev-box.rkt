@@ -64,3 +64,8 @@
 ;      labview run-time engine
 ;        browse to http://joule.ni.com/nidu/cds/view/p/id/1244/lang/en
 ;          download "LVRTE861f4std.exe"
+;  driver station
+;    browse to http://joule.ni.com/nidu/cds/view/p/id/2263/lang/en
+;      click "FRC2011DriverStation2_27_11Update.zip"
+;      erhs-53-hackers@googlegroups.com
+;      eleanor53
