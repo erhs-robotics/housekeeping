@@ -41,7 +41,13 @@
 ;        browse to http://www.python.org/download/releases/2.7.2/
 ;          scroll down to the 'Download' section
 ;          download the appropriate installer
-;    in a terminal
+;      either of the following:
+;        git bash
+;          see git section
+;        cygwin
+;          download http://www.cygwin.com/setup.exe
+;          follow the instruction
+;    in a git bash terminal
 ;      mkdir -p ~/opt
 ;      cd ~/opt
 ;      git clone https://github.com/nikitakit/ucpp.git
