@@ -1,0 +1,9 @@
+PROGRESS AND GOALS
+
+progress
+drove holonomic robot
+sensor code expalined
+almost nothing else to speak of
+
+goals
+do work for FRC challange...
