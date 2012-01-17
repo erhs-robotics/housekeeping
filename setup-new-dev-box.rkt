@@ -2,9 +2,21 @@
 ;  frc
 ;   download frc libraries and software
 ;   http://firstforge.wpi.edu/sf/frs/do/viewSummary/projects.wpilib/frs
+;  cygwin
+;   download http://www.cygwin.com/setup.exe
+;   follow the instruction
+;    be sure to download the following packages:
+;     git
+;     git-completion
+;     gitk
+;     openssh
+;     python
+;     make
+;     gcc
 ;  git
 ;   browse to http://help.github.com/set-up-git-redirect
 ;     follow the instructions, they're pretty thorough
+;       if you installed cygwin, use it in place of git-bash
 ;  robotpy
 ;    in a terminal, like gnome-terminal or git bash aka msysgit
 ;      mkdir -p ~/opt
@@ -43,10 +55,9 @@
 ;          download the appropriate installer
 ;      either of the following:
 ;        git bash
-;          see git section
+;          see git section above
 ;        cygwin
-;          download http://www.cygwin.com/setup.exe
-;          follow the instruction
+;          see cygwin section above
 ;    in a git bash terminal
 ;      mkdir -p ~/opt
 ;      cd ~/opt
