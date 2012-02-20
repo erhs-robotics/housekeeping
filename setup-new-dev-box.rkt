@@ -47,7 +47,9 @@
 ;          follow the instructions at the bottom of page 4
 ;          the section labeled "Installing the plugins from the update site"
 ;    after installing frc netbeans plugins, install 2012 updates
-;      http://firstforge.wpi.edu/sf/frs/do/listReleases/projects.wpilib/frs.2012_java_update_for_frc	
+;      http://firstforge.wpi.edu/sf/frs/do/listReleases/projects.wpilib/frs.2012_java_update_for_frc
+;        download from the link "2012JavaUpdate3077.zip" or latest available
+;        follow the instructions in the "Description" section above that link
 ;  ucpp
 ;    homepage https://github.com/nikitakit/ucpp
 ;    dependencies
