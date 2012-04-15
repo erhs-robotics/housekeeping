@@ -32,6 +32,23 @@ learn to program a robot in python
 				Chapter9:
 					All - important information about classes and objects,
 					      which are used heavily throughout robot code
+	pygame - more on classes
+		install pygame
+			windows
+				navigate to http://pygame.org
+					download pygame for your version of
+					python (3.2 at time of writing)
+			debian-based linux
+				follow instructions at (...)
+			rpm-based linux
+				follow instructinos at (...)
+		write your first pygame program
+			(...)
+		more on pygame
+			(...)
+		checkout Asteroid-Colliders written by Nick and Michael
+			clone Asteroid-Colliders from the erhs-53-hackers repo
+			
 	make a robotPy program
 		download the necessary scripting tools for loading code
 			navigate to http://firstforge.wpi.edu/sf/go/
