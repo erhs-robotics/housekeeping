@@ -1,0 +1,145 @@
+0:
+	setup python dev environment
+	--windows--
+		install python3 (Windows Installer
+		setup IDLE
+		create directory for storing code
+	--linux--
+		install python3
+			apt:  sudo apt-get intall python3
+			rpm:  su -c yum install python3
+		teach gedit
+		create directory for storing code
+	--mac--
+		no idea
+	introduce the python interpreter
+		arithmetic
+1:
+	continue with teaching through interpreter
+		arithmetic again
+		variables
+		strings
+		print()
+		make up some programming assignment
+2:
+	make first executable program
+		make hello.py --> "Hello World!" program
+		come up with some other program
+
+<!----For Unit: 3+, let students work at their own pace---->
+
+3:
+	continue with the learning of python
+		follow tutorial in python-startup.txt
+		for "Hands-on Python Tutorial"
+4:
+	continue with the learning of python	
+		follow tutorial in python-startup.txt
+		for "py3k tutorial"
+5:
+	setup github
+		--follow tutorial on http://www.github.com
+			creaete github username
+			setup gitbash (for windows)
+			setup ssh-keys
+	learn the basics of github
+		#make a tutorial (revise Danny's old tut?)
+		--follow tutorial
+			what is git?
+			$ git clone
+			$ git status
+			$ git add
+			$ git commit
+			$ git diff --cached
+			$ git push
+			$ git pull
+6:
+	make a video game!
+		introduce pygame
+		#find a tutorial for teaching pygame basics
+	introduce Asteroid-Colliders game
+		#clean up Asteroid-Colliders game
+		have student look over game		
+	make a simple game in pygame
+		have student design their own game in pygame
+7:
+	setup java
+		setup command-line compilers
+		set correct java path
+		install netbeans
+		install first plugins for later
+	create first java program
+		make HelloWorld.java
+		run HelloWorld.java to test compiler
+8:
+	learn the basics of java
+		#find/make tutorials for learning java
+9:
+	make a some movement
+		#make a prototyping board for teaching
+		#make simple tutorial
+10:
+	program your first full robot
+		chassis
+		joystick input
+		sensor
+		basic level AI
+11:
+	get a taste of micro-computing with arduino
+		
+		
+
+<!--Units denoted with a "*" are extra; order doesn't matter>
+
+*:
+	have some fun in ubuntu
+	--windows--
+		a) Use Wubi to partition HDD (preferred)
+		b) If (a) fails, do a manual partition
+	--mac--
+		#no idea honestly
+*:
+	learn to code the hardway
+	--python--
+	good supplement to existing python tutorial although
+	the beginning chapters will be monotonous
+	--c--
+	good way to get into c programming, which we use in
+	programming AI
+*:
+	leap into Wibit.net @ http://www.wibit.net/
+	--c--
+	either go through this video series or LCTHW
+	--c++--
+	good for people who have learned c from either one 
+	of the two tutorials for c
+	--Objective C--
+	any Mac users should find this tutorial to be of
+	use (plus learn to program an iPhone App)
+	--Java--
+	great for anyone who wants to improve their java
+	skills beyond what they'll learn for FIRST. Good
+	for Android and Linux users to know
+	--C#--
+	any die-hard windows fan will find this tutorial a 
+	must for programming a Windows computer.  Otherwise,
+	it does have some limited functionality in Linux
+	and Mac OSX.
+*:
+	take classes at http://www.udacity.com/
+	--Programming a Robotic Car--
+	This course is a must for anyone who wants to help
+	with the artificial intelligence area of the 
+	programming team
+	--Web Application Engineering--
+	This course is a must for anyone who wants to handle
+	databases used by the team website
+	--Design of Computer Programs--
+	This course should help anyone better write code.
+	We are considering requiring all members to take this
+	course at some point.
+	--Any other course--
+	Taking any other course at Udacity will greatly help
+	you with your programming abilities.  Note that
+	Udacity tends to focus on applied programming rather
+	than teaching the syntax of a language
