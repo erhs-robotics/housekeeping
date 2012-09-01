@@ -3,15 +3,15 @@ learn to program a robot in python
 		ms windows
 			navigate to python.org
 				left hand side
-					"Quick Links (3.x.x)" -> Windows Installer
+					"Quick Links (2.7.x)" -> Windows Installer
 		linux distros
 			command-line/terminal
 				Ubuntu
-					sudo apt-get install python3
+					sudo apt-get install python
 				Fedora
-					su yum install python3
+					su yum install python
 	learn basic python
-		navigate to http://anh.cs.luc.edu/python/hands-on/3.1/Hands-onPythonTutorial.pdf
+		navigate to anh.cs.luc.edu/python/hands-on/handsonHtml/handson.html
 			follow this guide
 				Chapter1:
 					ALL
@@ -22,7 +22,7 @@ learn to program a robot in python
 				Chapter4:
 					NONE
 	learn more python controls
-		navigate to http://docs.python.org/py3k/tutorial/index.html
+		navigate to http://docs.python.org/tutorial/index.html
 			follow this guide
 				Chapter4:
 					All - serves as a review of "flow-of-control" expressions
@@ -37,7 +37,7 @@ learn to program a robot in python
 			windows
 				navigate to http://pygame.org
 					download pygame for your version of
-					python (3.2 at time of writing)
+					python (2.7 at time of writing)
 			debian-based linux
 				follow instructions at (...)
 			rpm-based linux
@@ -46,8 +46,6 @@ learn to program a robot in python
 			(...)
 		more on pygame
 			(...)
-		checkout Asteroid-Colliders written by Nick and Michael
-			clone Asteroid-Colliders from the erhs-53-hackers repo
 			
 	make a robotPy program
 		download the necessary scripting tools for loading code
@@ -66,7 +64,4 @@ learn to program a robot in python
 			navigate to the directory "./samples/template/robot.py"
 				this is a very basic file for robotpy
 				copy this file and paste it in the directory "./robot/py"
-				
-				
-			
-		
+
