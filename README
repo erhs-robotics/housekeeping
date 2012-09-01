@@ -1,5 +1,9 @@
-erhs-53-hackers "housekeeping" project
-git@github.com:erhs-53-hackers/housekeeping.git
-(c) 2011 ERHS Robotics Club -- Team 53: "The Area 53 Cow Abductors"
+erhs-robotics "housekeeping" project
+git@github.com:erhs-robotics/housekeeping.git
+2011-2012 ERHS Robotics Club
 
-This repo contains project and team information
+This repo contains basic information of the programming team such as
+  - team roster
+  - project information
+  - daily progress and goals
+  - information on using programming tools
