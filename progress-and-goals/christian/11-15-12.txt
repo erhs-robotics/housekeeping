@@ -1,0 +1,9 @@
+goals
+1) sign up for github
+2)know what git is
+3) download git
+
+progress
+1)signed up for git hub
+2)downloaded git
+0)found out what git was
