@@ -1,0 +1,8 @@
+Goals
+0) Meeting about progress and goals
+	0) set up git
+	1) explain basic use of git
+	2) explain the progress and goals system
+1) Set up FRC Java people with Adam
+2) Extend Python Project
+3) Work on Miniurban 
