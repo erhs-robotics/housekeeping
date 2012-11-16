@@ -1,0 +1,5 @@
+Goals
+0) Finish up git setup + progress and goal setup
+1) Set up FRC Java people with Adam
+2) Extend Python Project
+3) Work on Miniurban 
