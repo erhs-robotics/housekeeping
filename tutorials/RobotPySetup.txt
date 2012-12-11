@@ -1,0 +1,61 @@
+How to setup and use RobotPy
+
+Introduction
+	RobotPy is an open source project that ports the FRC C++ libraries over to Python. This allows you to program the FRC robots in Python. You have been learning and using Python 2. RobotPy is written in Python 3. They are very similar. The biggest difference you have to worry about is instead of using the statement print “hello world” you now have to include parentheses like such: print(“hello world”). 
+
+Setup
+0) Installing python 3:
+	Windows: http://www.python.org/ftp/python/3.3.0/python-3.3.0.msi
+		Download and run the installer
+		In your powershell execute the command:
+[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python33", "User")
+		Make sure that Python33 is the directory you installed Python3 in. If not substitute
+		C:\Python33 with the correct Path to Python3
+	Mac: http://www.python.org/ftp/python/3.3.0/python-3.3.0-macosx10.6.dmg
+		Download and run the installer
+	Linux: sudo apt-get install python3
+1) Download RobotPy from FIRST Forge:
+	All OS: http://firstforge.wpi.edu/sf/frs/do/downloadFile/projects.robotpy/frs.robotpy.2012_2/frs1408?dl=1
+	Download and unzip the archive in your working directory
+	You now have all the tools necessary to run RobotPy
+
+Setting Up RobotPy on the FRC Bot
+	NOTE: We already did this for you but it is good for you to know
+0) Flash the robot to FRC C++
+	This means setting the robot up so it can run C++ code (Python runs on C++).
+	This uses the FRC Flashing tool. Do not worry about this step, it will be done for you.
+1) Connect to the robot’s router - make sure the robot is on
+	On a laptop it is suggested that you use your wireless router. On a desktop you will have
+	to physically connect to the robot with an ethernet cable
+2) Upload RobotPy - make sure the robot is on
+	In the RobotPy directory you unzipped find the file named install.py.
+	Navigate to this directory in your appropriate shell (windows: powershell).
+	Execute the command python3 install.py
+	The script will prompt you for our team number. Our team number is 53 BUT not all
+of the robots are set to 53. Check what number the robot is set to.
+The script will then install RobotPy on the robot. You are done!
+
+ 
+Creating and uploading a python program
+
+0) In your GIT Bash create a new directory for your project with the mkdir command
+
+1) In the GIT Bash type:
+	git clone https://github.com/erhs-robotics/RobotPy_sample.git
+	to download an example project
+
+3) Open the team_upload.py file that you copyed to your project directory and find the line near the top: my_team_number = <some number>, and set it equal to the correct team number (See Setting Up RobotPy on the FRC Bot #2). The robot number should be 1
+
+4) Make sure the robot is on, give it about a minute to load
+
+5) Make sure a driver station is attached to the robot (ask for help on this one if you do not know what the driver station is)
+
+6) Using the powershell (on windows) navigate to your project directory and execute: 
+python3 team_upload.py
+
+7) Reboot the robot from the driver station
+
+8) Give the robot about a minute to reboot. You should now be able to run your code from the driver station
+
+
+	
