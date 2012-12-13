@@ -1,3 +1,0 @@
-Progress:
-Robot py works!!!!
-discussed robot design

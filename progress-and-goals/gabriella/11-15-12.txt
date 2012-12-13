@@ -1,9 +1,0 @@
-Goals:
-1. Know what "git" is.
-2. Make a github account.
-3. DOwnload git.
-
-Progress:
-1. Made a github account
-2. download git
-3. learned how to use git
