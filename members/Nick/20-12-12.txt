@@ -1,0 +1,4 @@
+goals
+0. setup programming team organization
+1. continue work on robotpy
+2. work on fuzzy logic controller

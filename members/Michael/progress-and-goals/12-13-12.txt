@@ -1,0 +1,10 @@
+Goals
+0) Miniurban
+1) Implement new member system
+2) Robotpy
+
+Progress
+0) Got david working on Map
+1) Investigated Fuzzy Logic
+2) Implemented new member system
+
