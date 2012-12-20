@@ -1,0 +1,5 @@
+Goals:
+0) Make specifications for parts of map
+1) Start Miniurban map building
+2) Organize teams for new year
+	0) Create full roster
