@@ -1,0 +1,15 @@
+# Projects List
+Bored, nothing to do?  Pick a project or start a new one.  
+Please place under the appropriate list.
+
+## Unclaimed Projects
+* Learn FRC Java
+* Reprogram 2013 FRC Robot
+* 
+
+## Claimed Projects
+* Ares I
+    - Nick
+    - Michael
+
+## Completed Projects
